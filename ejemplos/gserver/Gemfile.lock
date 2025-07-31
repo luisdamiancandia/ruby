@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gserver (0.0.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  gserver
+
+BUNDLED WITH
+   2.2.23
